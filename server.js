@@ -7,7 +7,7 @@ const app = express()
 app.use(express.json())
 
 //CONSTANTES
-const gitHubApiPath = "https://api.github.com/users/Micheeodd";
+const gitHubApiPath = "https://api.github.com/users/David657890387";
 const endpoint = "/github"
 const dataKey = "githubDatas"
 const port = 8000
